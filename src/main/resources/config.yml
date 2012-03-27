@@ -1,0 +1,123 @@
+DeathMessage:
+  Drowned:
+    Default: drowned
+    Alternates:
+    - '%p sleeps with the fishes'
+    - '%p has entered a watery grave'
+    - '%p could not hold his breath long enough'
+  Fall:
+    Default: hit the ground too hard
+    Alternates:
+    - '%p is a moron and walked off a cliff'
+    - '%p went splat'
+    - '%r pushed %p off a cliff'
+  Kill:
+    Default: died
+    Alternates:
+    - '%p died of laughter'
+    - '%p is too stupid to live'
+    - '%p committed suicide'
+  Zombie:
+    Default: was slain by Zombie
+    UseDefault: false
+    Alternates:
+    - '%p was slain by a Zombie'
+    - A Zombie ate %p's brains
+    - '%p was eaten alive by a Zombie'
+    - A Zombie slowly pealed the flesh from %p bones
+  Enderman:
+    Default: was slain by Enderman
+    UseDefault: false
+    Alternates:
+    - '%p was beaten to death by an Enderman'
+    - '%p was cornered and killed by an Enderman'
+  Skeleton:
+    Default: was shot by Skeleton
+    UseDefault: false
+    Alternates:
+    - '%p was shot by a Skeleton'
+    - '%p has an arrow through their head'
+    - '%p bled out from an arrow wound'
+  BlewUp:
+    Default: blew up
+    Alternates:
+    - '%p blew up real good'
+    - '%p was fatally shredded in an explosion'
+    - '%p splattered the surrounding area with bits of flesh'
+    - '%p was killed in a fatal explosion. Thankfully no one likes him so no one is
+      sad'
+  Burned:
+    Default: went up in flames
+    Alternates:
+    - '%p was playing with matches and burned to death'
+    - '%p was cooked for dinner'
+    - '%p lit himself on fire.  What..An..Idiot..'
+    - '%p spontaneously combusted'
+  BurnedToDeath:
+    Default: burned to death
+    Alternates:
+    - '%p burned to a crisp'
+    - 'Do you smell cooking %p flesh?'
+  Blaze:
+    Default: was fireballed by Blaze
+    UseDefault: false
+    Alternates:
+    - '%p got a love-kiss from a Blaze'
+    - '%p was fireballed by a Blaze.... wooow'
+    - A Blaze turned %p into black soot
+  Slime:
+    Default: was slain by Slime
+    UseDefault: false
+    Alternates:
+    - '%p was slain by a Slime'
+    - '%p was killed by a giant green cube'
+    - '%p was killed by jello'
+  Spider:
+    Default: was slain by Spider
+    UseDefault: false
+    Alternates:
+    - '%p was slain by a giant spider'
+    - '%p was bitten by a spider and died'
+    - "%p doesn't like spiders or snakes"
+  CaveSpider:
+    Default: was slain by Cave Spider
+    UseDefault: false
+    Alternates:
+    - '%p was slain by a cave spider'
+    - '%p was bitten by a pretty little spider'
+  Wolf:
+    Default: was slain by Wolf
+    UseDefault: false
+    Alternates:
+    - '%p was slain by a wolf'
+    - 'Bad doggy, he killed %p'
+    - '%p was savaged by a wolf'
+  ZombiePigman:
+    Default: was slain by Zombie Pigman
+    UseDefault: false
+    Alternates:
+    - '%p was slain by a Zombie Pigman'
+    - 'Oink Oink, %p is dead'
+  MagmaCube:
+    Default: was slain by Magma Cube
+    UseDefault: false
+    Alternates:
+    - '%p was slain by a Magma Cube'
+    - '%p FAIL, death by Magma Cube'
+  Silverfish:
+    Default: was slain by Silverfish
+    UseDefault: false
+    Alternates:
+    - '%p was killed by a wiggly slimly thing (silverfish)'
+    - '%p says Ian needs to go to bed'
+  PlayerShot:
+    Default: was shot by %k
+    Alternates:
+    - '%p falls to the ground, lifeless and with an arrow in their chest as %k puts away their bow'
+  PlayerSlain:
+    Default: was slain by %k
+    Alternates:
+    - '%p was tortured to death by %k'
+    - '%p was decapitated by %k'
+    - '%k stabbed %p over and over again until his blood was soaked into the ground'
+    - '%p was helped to pass over to the afterlife by %k'
