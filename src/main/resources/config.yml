@@ -79,6 +79,7 @@ DeathMessage:
     - '%p was slain by a giant spider'
     - '%p was bitten by a spider and died'
     - "%p doesn't like spiders or snakes"
+    - "I don't know why %p swallowed a fly, perhaps he died."
   CaveSpider:
     Default: was slain by Cave Spider
     UseDefault: false
@@ -110,6 +111,10 @@ DeathMessage:
     Alternates:
     - '%p was killed by a wiggly slimly thing (silverfish)'
     - '%p says Ian needs to go to bed'
+  Cactus:
+    Default: was pricked to death
+    Alternates:
+    - A cactus fell on %p and he died
   PlayerShot:
     Default: was shot by %k
     Alternates:

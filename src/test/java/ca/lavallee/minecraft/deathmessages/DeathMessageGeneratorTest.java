@@ -2,7 +2,6 @@ package ca.lavallee.minecraft.deathmessages;
 
 import static org.junit.Assert.assertFalse;
 
-import java.io.File;
 import java.util.Set;
 import java.util.logging.Logger;
 
